@@ -6,8 +6,8 @@ I use this to forward emails to Todoist as an Alfred action.
 ### Configuration
 * Create a workflow to execute the script (such as Alfred Run NSAppleScript)
 * Edit the workflow to contain your parameters\
-*   Set the destination user under "set recipient address" and "msgrecipient"
-*   Set msgSender to your "From" address on your email account
+  * Set the destination user under "set recipient address" and "msgrecipient"
+  * Set msgSender to your "From" address on your email account
 
 ### Usage
 * While message(s) is/are selected within Mac Mail, run the script.
