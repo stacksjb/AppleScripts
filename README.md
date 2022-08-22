@@ -14,4 +14,4 @@ I use this to forward emails to Todoist as an Alfred action.
 (If you don't want message deleted, you can remove the "delete current_Message")
 
 #### Credits
-Thanks to [MacScripter](https://macscripter.net/viewtopic.php?pid=199288) and [StackOverflow] (https://stackoverflow.com/questions/18851584/applescript-to-forward-mail-with-attachments)
+Thanks to [MacScripter](https://macscripter.net/viewtopic.php?pid=199288) and [StackOverflow](https://stackoverflow.com/questions/18851584/applescript-to-forward-mail-with-attachments)
