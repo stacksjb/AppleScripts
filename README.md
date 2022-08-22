@@ -12,8 +12,7 @@ I use this to forward emails to Todoist as an Alfred action.
 ### Usage
 * While message(s) is/are selected within Mac Mail, run the script.
 * They will be forwarded and set to the recipient email, then deleted.
-
-(If you don't want message deleted, you can remove the "delete current_Message")
+ * If you don't want message deleted, you can remove the "delete current_Message" section
 
 #### Credits
 Thanks to [MacScripter](https://macscripter.net/viewtopic.php?pid=199288) and [StackOverflow](https://stackoverflow.com/questions/18851584/applescript-to-forward-mail-with-attachments)
