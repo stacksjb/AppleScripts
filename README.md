@@ -1,3 +1,7 @@
+A repository for several simple applescripts.
+
+
+
 # Mail-Forward-Applescript
 A simple Applescript to forward the currently selected email message(s) from Mac Mail and then delete them. 
 
