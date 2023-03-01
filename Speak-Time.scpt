@@ -10,5 +10,5 @@ tell application "Finder"
 	set myTime to time string of (current date)
 	set myParts to words of myTime
 	set mySpeak to (item 1 of myParts) & " " & (item 2 of myParts) & "" & pre
-	say "The time is now " & mySpeak & "schedule"
+	say "The time is now " & mySpeak
 end tell
