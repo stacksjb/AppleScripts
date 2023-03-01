@@ -1,8 +1,8 @@
-A repository for several simple applescripts.
+A repository for several simple scripts I have for various things.
 
 
 
-# Mail-Forward-Applescript
+# Mail-Forward-AppleScript
 A simple Applescript to forward the currently selected email message(s) from Mac Mail and then delete them. 
 
 I use this to forward emails to Todoist as an Alfred action.
