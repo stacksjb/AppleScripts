@@ -1,6 +1,6 @@
 on alfred_script(q)
 set recipientAddress to "<destintationemailaddress>" -- change this to the recipient
-set MsgSender to "<FROM account email address>"" -- set this to the FROM, configured email account in Mac Mail
+set MsgSender to "<FROM account email address>" -- set this to the FROM, configured email account in Mac Mail
 set MsgRecipient to "<destinationemailaddress>" -- change this to the recipient
 
 tell application "Mail"
